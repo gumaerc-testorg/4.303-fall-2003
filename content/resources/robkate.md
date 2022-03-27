@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 73cc0a77-a29d-759e-b54f-8e34659f3e84
 resourcetype: Document
 title: Rob Morgan and Katherine James
 uid: f8739ab4-806e-6ca8-086d-84cf4e79af78

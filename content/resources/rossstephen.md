@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 73cc0a77-a29d-759e-b54f-8e34659f3e84
 resourcetype: Document
 title: 'Rose Kennedy Greenway Golf Course: Linear Pleasure in Bloom'
 uid: 2397d05c-10bc-cbbc-c462-0e376665e0d4

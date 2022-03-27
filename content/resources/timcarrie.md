@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 73cc0a77-a29d-759e-b54f-8e34659f3e84
 resourcetype: Document
 title: trace
 uid: 447a0b64-5267-e8ba-8190-0931240b4d8a
