@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the pedagogy and logistics of the course, and
+  describes the background of the instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Pedagogy
