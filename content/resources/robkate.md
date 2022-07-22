@@ -6,6 +6,7 @@ file: /courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/f8739ab
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Rob Morgan and Katherine James
 uid: f8739ab4-806e-6ca8-086d-84cf4e79af78
 ---
 Example of a student project for the course: an intervention proposed for the forthcoming Rose Kennedy Greenway.
-

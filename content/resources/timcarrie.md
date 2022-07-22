@@ -6,6 +6,7 @@ file: /courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/447a0b6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: trace
 uid: 447a0b64-5267-e8ba-8190-0931240b4d8a
 ---
 Example of a student project for the course: an intervention proposed for the forthcoming Rose Kennedy Greenway.
-
