@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of a student project for the course: an intervention proposed
   for the forthcoming Rose Kennedy Greenway.'
-file: /courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/2397d05c10bccbbcc4620e376665e0d4_rossstephen.pdf
+file: /ol-ocw-studio-app/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/2397d05c10bccbbcc4620e376665e0d4_rossstephen.pdf
 file_size: 242683
 file_type: application/pdf
 learning_resource_types:
