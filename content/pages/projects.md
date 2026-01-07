@@ -47,7 +47,7 @@ Rob Morgan and Katherine James
 Jimmy Shen, Ophelia Wilkins, and Konstantinos Chadios
 {{< tdclose >}}
 {{< tdopen >}}
-Video: ({{% resource_link "efec91de-3d97-4ec3-bc71-55066de2f8fc" "MP4 - 12 MB" %}})
+Video: ([MP4 - 12 MB](https://archive.org/download/MIT4.303F03/4.303-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
